@@ -38,4 +38,7 @@ Exercise 4<br>
 		*The semi threshold will compare the image with the original one.
 		*The disadvantages of the binary threshold is that if the light is too light or too dark the result weill be disappointed.
 		*The adaptive threshold is useful when the the picture have many different shading parts.
-	
+Exercise <br>
+----------------	
+		The final result and code is shown in the exercise5.file.
+		
